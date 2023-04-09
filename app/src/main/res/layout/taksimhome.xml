@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TaksimHome"
+    android:background="@color/purple_200">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Taksim Islam"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="italic|bold"
+        android:textColor="#0000FF"
+        android:textSize="25sp"/>
+
+    <RadioGroup
+        android:id="@+id/radiogroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="200dp">
+
+        <RadioButton
+            android:id="@+id/randomnumber"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Random Number" />
+        <RadioButton
+            android:id="@+id/randomtext"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Random Text"/>
+        <RadioButton
+            android:id="@+id/firebase"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Firebase"/>
+
+
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:text="Submit" />
+
+
+</FrameLayout>

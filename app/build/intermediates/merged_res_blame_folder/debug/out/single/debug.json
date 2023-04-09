@@ -8,10 +8,6 @@
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/mipmap-xxhdpi_home_icon_round.png.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/mipmap-xxhdpi/home_icon_round.png"
-    },
-    {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
@@ -26,6 +22,14 @@
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xhdpi_home_icon_round.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xhdpi\\home_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\layout_taksimhome.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\layout\\taksimhome.xml"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\drawable-mdpi_ic_profile.png.flat",
@@ -52,12 +56,8 @@
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\menu\\menu.xml"
     },
     {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/mipmap-hdpi_home_icon_round.png.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/mipmap-hdpi/home_icon_round.png"
-    },
-    {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/mipmap-xxxhdpi_home_icon_round.png.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/mipmap-xxxhdpi/home_icon_round.png"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xxxhdpi_home_icon_round.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xxxhdpi\\home_icon_round.png"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
@@ -80,24 +80,24 @@
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-hdpi\\location_icon.png"
     },
     {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/mipmap-xxxhdpi_home_icon.png.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/mipmap-xxxhdpi/home_icon.png"
-    },
-    {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xxxhdpi_location_icon_round.png.flat",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xxxhdpi\\location_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-hdpi_home_icon.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-hdpi\\home_icon.png"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\drawable_alert_icon.jpg.flat",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\drawable\\alert_icon.jpg"
     },
     {
-        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-anydpi-v26_home_icon.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-anydpi-v26\\home_icon.xml"
     },
     {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/mipmap-anydpi-v26_home_icon_round.xml.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/mipmap-anydpi-v26/home_icon_round.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\drawable-anydpi_ic_news.xml.flat",
@@ -124,24 +124,20 @@
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\drawable-hdpi\\ic_news.png"
     },
     {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/menu_menu.xml.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/menu/menu.xml"
+        "merged": "taksim.islam.n01523847.app-merged_res-29:/menu_activity_main_menu_drawer.xml.flat",
+        "source": "taksim.islam.n01523847.app-main-31:/menu/activity_main_menu_drawer.xml"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\drawable-xxhdpi_ic_news.png.flat",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\drawable-xxhdpi\\ic_news.png"
     },
     {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-anydpi-v26_home_icon_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-anydpi-v26\\home_icon_round.xml"
+    },
+    {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xhdpi_location_icon.png.flat",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xhdpi\\location_icon.png"
-    },
-    {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/drawable_home_icon_foreground.xml.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/drawable/home_icon_foreground.xml"
-    },
-    {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/mipmap-xhdpi_home_icon_round.png.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/mipmap-xhdpi/home_icon_round.png"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
@@ -172,16 +168,8 @@
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/drawable_home_icon_background.xml.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/drawable/home_icon_background.xml"
-    },
-    {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-hdpi_location_icon_round.png.flat",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-hdpi\\location_icon_round.png"
-    },
-    {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/mipmap-mdpi_home_icon.png.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/mipmap-mdpi/home_icon.png"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\drawable-hdpi_ic_profile.png.flat",
@@ -192,12 +180,12 @@
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\layout\\activity_main_nav_header.xml"
     },
     {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/mipmap-mdpi_home_icon_round.png.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/mipmap-mdpi/home_icon_round.png"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\drawable_home_icon_foreground.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\drawable\\home_icon_foreground.xml"
     },
     {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/mipmap-xxhdpi_home_icon.png.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/mipmap-xxhdpi/home_icon.png"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\drawable_home_icon_background.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\drawable\\home_icon_background.xml"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-mdpi_location_icon.png.flat",
@@ -216,10 +204,6 @@
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/mipmap-anydpi-v26_home_icon.xml.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/mipmap-anydpi-v26/home_icon.xml"
-    },
-    {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
@@ -228,8 +212,8 @@
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xxhdpi\\location_icon_round.png"
     },
     {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/mipmap-hdpi_home_icon.png.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/mipmap-hdpi/home_icon.png"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xxxhdpi_home_icon.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xxxhdpi\\home_icon.png"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -244,12 +228,32 @@
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-anydpi-v26\\location_icon_round.xml"
     },
     {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xxhdpi_home_icon_round.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xxhdpi\\home_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-mdpi_home_icon.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-mdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xhdpi_home_icon.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xhdpi\\home_icon.png"
+    },
+    {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-anydpi-v26_location_icon.xml.flat",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-anydpi-v26\\location_icon.xml"
     },
     {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xxhdpi_home_icon.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xxhdpi\\home_icon.png"
+    },
+    {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\drawable-anydpi_ic_profile.xml.flat",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\drawable-anydpi\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\drawable_mypic.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\drawable\\mypic.jpg"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -260,12 +264,12 @@
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\drawable-mdpi\\ic_news.png"
     },
     {
-        "merged": "taksim.islam.n01523847.app-merged_res-29:/mipmap-xhdpi_home_icon.png.flat",
-        "source": "taksim.islam.n01523847.app-main-31:/mipmap-xhdpi/home_icon.png"
-    },
-    {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xxxhdpi_location_icon.png.flat",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-xxxhdpi\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-hdpi_home_icon_round.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-hdpi\\home_icon_round.png"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\drawable-mdpi_ic_settings.png.flat",
@@ -274,6 +278,10 @@
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\drawable-xhdpi_ic_profile.png.flat",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\drawable-xhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-mdpi_home_icon_round.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-main-31:\\mipmap-mdpi\\home_icon_round.png"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\taksim.islam.n01523847.app-merged_res-29:\\mipmap-xhdpi_location_icon_round.png.flat",

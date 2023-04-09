@@ -2795,6 +2795,7 @@ int drawable mtrl_switch_thumb_unchecked_pressed 0x7f0700cf
 int drawable mtrl_switch_track 0x7f0700d0
 int drawable mtrl_switch_track_decoration 0x7f0700d1
 int drawable mtrl_tabs_default_indicator 0x7f0700d2
+int drawable mypic 0x7f0700e8
 int drawable navigation_empty_icon 0x7f0700d3
 int drawable notification_action_background 0x7f0700d4
 int drawable notification_bg 0x7f0700d5
@@ -2881,9 +2882,13 @@ int id action_mode_close_button 0x7f080042
 int id action_text 0x7f080043
 int id actions 0x7f080044
 int id activity_chooser_view_content 0x7f080045
-int id activity_main_drawer_news 0x7f080046
+int id activity_main_drawer_home 0x7f0801fc
+int id activity_main_drawer_layout 0x7f0801f8
 int id activity_main_drawer_profile 0x7f080047
 int id activity_main_drawer_settings 0x7f080048
+int id activity_main_frame_layout 0x7f0801f9
+int id activity_main_nav_view 0x7f0801fa
+int id activity_main_toolbar 0x7f0801fb
 int id add 0x7f080049
 int id alertTitle 0x7f08004a
 int id aligned 0x7f08004b
@@ -2912,6 +2917,7 @@ int id bounce 0x7f080061
 int id bounceBoth 0x7f080062
 int id bounceEnd 0x7f080063
 int id bounceStart 0x7f080064
+int id button 0x7f0801f1
 int id buttonPanel 0x7f080065
 int id cache_measures 0x7f080066
 int id callMeasure 0x7f080067
@@ -2999,6 +3005,7 @@ int id fill 0x7f0800b8
 int id fill_horizontal 0x7f0800b9
 int id fill_vertical 0x7f0800ba
 int id filled 0x7f0800bb
+int id firebas 0x7f0801f2
 int id fitCenter 0x7f0800bc
 int id fitEnd 0x7f0800bd
 int id fitStart 0x7f0800be
@@ -3155,6 +3162,9 @@ int id pressed 0x7f080153
 int id progress_circular 0x7f080154
 int id progress_horizontal 0x7f080155
 int id radio 0x7f080156
+int id radiogroup 0x7f0801f3
+int id randomnumber 0x7f0801f4
+int id randomtext 0x7f0801f5
 int id ratio 0x7f080157
 int id rectangles 0x7f080158
 int id reverseSawtooth 0x7f080159
@@ -3260,6 +3270,8 @@ int id textSpacerNoButtons 0x7f0801bc
 int id textSpacerNoTitle 0x7f0801bd
 int id textStart 0x7f0801be
 int id textTop 0x7f0801bf
+int id textView 0x7f0801f6
+int id textView2 0x7f0801f7
 int id text_input_end_icon 0x7f0801c0
 int id text_input_error_icon 0x7f0801c1
 int id text_input_start_icon 0x7f0801c2
@@ -3493,6 +3505,7 @@ int layout select_dialog_item_material 0x7f0b0067
 int layout select_dialog_multichoice_material 0x7f0b0068
 int layout select_dialog_singlechoice_material 0x7f0b0069
 int layout support_simple_spinner_dropdown_item 0x7f0b006a
+int layout taksimhome 0x7f0b006b
 int menu activity_main_menu_drawer 0x7f0d0000
 int menu menu 0x7f0d0001
 int mipmap home_icon 0x7f0e0005
@@ -3548,6 +3561,7 @@ int string error_icon_content_description 0x7f100029
 int string exposed_dropdown_menu_content_description 0x7f10002a
 int string fab_transformation_scrim_behavior 0x7f10002b
 int string fab_transformation_sheet_behavior 0x7f10002c
+int string hello_blank_fragment 0x7f10009b
 int string hide_bottom_view_on_scroll_behavior 0x7f10002d
 int string icon_content_description 0x7f10002e
 int string item_view_role_description 0x7f10002f
@@ -3646,6 +3660,8 @@ int string mtrl_switch_track_decoration_path 0x7f10008b
 int string mtrl_switch_track_path 0x7f10008c
 int string mtrl_timepicker_cancel 0x7f10008d
 int string mtrl_timepicker_confirm 0x7f10008e
+int string navigation_drawer_close 0x7f10009c
+int string navigation_drawer_open 0x7f10009d
 int string password_toggle_content_description 0x7f10008f
 int string path_password_eye 0x7f100090
 int string path_password_eye_mask_strike_through 0x7f100091
@@ -4380,6 +4396,7 @@ int style ThemeOverlay_MaterialComponents_TimePicker_Display_TextInputEditText 0
 int style ThemeOverlay_MaterialComponents_Toolbar_Popup_Primary 0x7f1102cf
 int style ThemeOverlay_MaterialComponents_Toolbar_Primary 0x7f1102d0
 int style ThemeOverlay_MaterialComponents_Toolbar_Surface 0x7f1102d1
+int style ToolBarStyle 0x7f110446
 int style Widget_AppCompat_ActionBar 0x7f1102d2
 int style Widget_AppCompat_ActionBar_Solid 0x7f1102d3
 int style Widget_AppCompat_ActionBar_TabBar 0x7f1102d4

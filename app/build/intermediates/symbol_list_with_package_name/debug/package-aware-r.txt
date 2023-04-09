@@ -2796,6 +2796,7 @@ drawable mtrl_switch_thumb_unchecked_pressed
 drawable mtrl_switch_track
 drawable mtrl_switch_track_decoration
 drawable mtrl_tabs_default_indicator
+drawable mypic
 drawable navigation_empty_icon
 drawable notification_action_background
 drawable notification_bg
@@ -2882,9 +2883,13 @@ id action_mode_close_button
 id action_text
 id actions
 id activity_chooser_view_content
-id activity_main_drawer_news
+id activity_main_drawer_home
+id activity_main_drawer_layout
 id activity_main_drawer_profile
 id activity_main_drawer_settings
+id activity_main_frame_layout
+id activity_main_nav_view
+id activity_main_toolbar
 id add
 id alertTitle
 id aligned
@@ -2913,6 +2918,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3000,6 +3006,7 @@ id fill
 id fill_horizontal
 id fill_vertical
 id filled
+id firebas
 id fitCenter
 id fitEnd
 id fitStart
@@ -3156,6 +3163,9 @@ id pressed
 id progress_circular
 id progress_horizontal
 id radio
+id radiogroup
+id randomnumber
+id randomtext
 id ratio
 id rectangles
 id reverseSawtooth
@@ -3261,6 +3271,8 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textView2
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3494,6 +3506,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+layout taksimhome
 menu activity_main_menu_drawer
 menu menu
 mipmap home_icon
@@ -3549,6 +3562,7 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -3647,6 +3661,8 @@ string mtrl_switch_track_decoration_path
 string mtrl_switch_track_path
 string mtrl_timepicker_cancel
 string mtrl_timepicker_confirm
+string navigation_drawer_close
+string navigation_drawer_open
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -4381,6 +4397,7 @@ style ThemeOverlay_MaterialComponents_TimePicker_Display_TextInputEditText
 style ThemeOverlay_MaterialComponents_Toolbar_Popup_Primary
 style ThemeOverlay_MaterialComponents_Toolbar_Primary
 style ThemeOverlay_MaterialComponents_Toolbar_Surface
+style ToolBarStyle
 style Widget_AppCompat_ActionBar
 style Widget_AppCompat_ActionBar_Solid
 style Widget_AppCompat_ActionBar_TabBar
